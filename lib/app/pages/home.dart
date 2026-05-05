@@ -25,7 +25,7 @@ class _HomePageState extends State<HomePage> {
       "id": 2,
       "titulo": "Capítulo II",
       "subtitulo": "Direitos e Deveres da Criança",
-      "rota": "/capitulo2-seccoes",
+      "rota": "/capitulo02_seccao",
     },
     {
       "id": 3,
