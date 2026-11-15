@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:lei_sobre_preteccao_das_criancas_angolana/main.dart';
+import 'package:lei_proteccao_crianca_angola/main.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

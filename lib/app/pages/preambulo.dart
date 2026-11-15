@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class PreambuloLayout extends StatelessWidget {
-  final titulo = 'Lei Sobre A Protecção E Desenvolvimento Itegral Da Criança';
+  final titulo = 'Lei Sobre A Protecção E Desenvolvimento Integral Da Criança';
 
   const PreambuloLayout({super.key});
 

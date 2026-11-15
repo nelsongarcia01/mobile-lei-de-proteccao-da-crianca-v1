@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:lei_sobre_preteccao_das_criancas_angolana/app/pages/capitulo_01/artigos/capitulo01_artigos.dart';
-import 'package:lei_sobre_preteccao_das_criancas_angolana/app/pages/capitulo_02/seccoes/capitulo_02_seccao.dart';
-import 'package:lei_sobre_preteccao_das_criancas_angolana/app/pages/home.dart';
-import 'package:lei_sobre_preteccao_das_criancas_angolana/app/pages/preambulo.dart';
-import 'package:lei_sobre_preteccao_das_criancas_angolana/app/pages/sobre.dart';
-import 'package:lei_sobre_preteccao_das_criancas_angolana/app/pages/welcome.dart';
+import 'package:lei_proteccao_crianca_angola/app/pages/capitulo_01/artigos/capitulo01_artigos.dart';
+import 'package:lei_proteccao_crianca_angola/app/pages/capitulo_02/seccoes/capitulo_02_seccao.dart';
+import 'package:lei_proteccao_crianca_angola/app/pages/home.dart';
+import 'package:lei_proteccao_crianca_angola/app/pages/preambulo.dart';
+import 'package:lei_proteccao_crianca_angola/app/pages/sobre.dart';
+import 'package:lei_proteccao_crianca_angola/app/pages/welcome.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Lei sobre Proteção das Crianças Angolana',
+      title: 'Lei da Criança — Angola',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),

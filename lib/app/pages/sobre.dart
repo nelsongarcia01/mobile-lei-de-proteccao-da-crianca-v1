@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class SobreLayout extends StatefulWidget {
-  final titulo = 'Lei Sobre A Protecção E Desenvolvimento Itegral Da Criança';
+  final titulo = 'Lei Sobre A Protecção E Desenvolvimento Integral Da Criança';
 
   const SobreLayout({super.key});
 
@@ -84,7 +84,7 @@ class _SobreLayoutState extends State<SobreLayout> {
                   Container(
                     margin: EdgeInsets.only(bottom: 12),
                     child: Text(
-                      '© Todos os direitos reservados a Nelson Manuel Garcia.',
+                      '© 2026 Nelson Manuel Garcia · Código aberto (licença MIT).',
                       style: TextStyle(height: 1.5),
                       textAlign: TextAlign.center,
                     ),
@@ -149,7 +149,7 @@ class _SobreLayoutState extends State<SobreLayout> {
                   // 🌐 LINKEDIN
                   GestureDetector(
                     onTap: () => openLink(
-                      'https://www.linkedin.com/in/nelson-manuel-garcia-80424234a',
+                      'https://www.linkedin.com/in/nelsonmanuelgarcia',
                     ),
                     child: Row(
                       children: [

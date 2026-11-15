@@ -1,11 +1,11 @@
 {
-    "name": "lei_sobre_preteccao_das_criancas_angolana",
-    "short_name": "lei_sobre_preteccao_das_criancas_angolana",
+    "name": "Lei da Criança — Angola",
+    "short_name": "Lei da Criança",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Lei sobre a Protecção e Desenvolvimento Integral da Criança (Angola), para consulta no telemóvel.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

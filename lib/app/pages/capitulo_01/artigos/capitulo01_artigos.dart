@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class Capitulo1ArtigosLayout extends StatelessWidget {
-  final titulo = 'Lei Sobre A Protecção E Desenvolvimento Itegral Da Criança';
+  final titulo = 'Lei Sobre A Protecção E Desenvolvimento Integral Da Criança';
 
   const Capitulo1ArtigosLayout({super.key});
 
